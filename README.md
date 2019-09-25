@@ -1,7 +1,7 @@
 简介
 ---
 
-在线地址：[http://cody1991.github.io/aboutme](http://cody1991.github.io/aboutme)
+在线地址：[https://huruilin.github.io](http://cody1991.github.io)
 
 英文版暂停更新。
 
